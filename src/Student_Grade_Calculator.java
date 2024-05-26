@@ -60,7 +60,7 @@ public class Student_Grade_Calculator {
         System.out.println();
         System.out.println("Name : " + name);
         System.out.println("Total Marks : " + total);
-        System.out.println("Average Percentage : " + average);
+        System.out.println("Average Percentage : " + average+ "%");
         System.out.println("Grade Received : " + grade);
 
     }
